@@ -3,7 +3,7 @@ import Diagrama from "./components/Diagrama";
 function App() {
   return (
     <div>
-      <h1>Exchange Rate Chart (RUB to USD)</h1>
+      <h1>LINE CHART DOLLAR VS RUB</h1>
       <Diagrama />
     </div>
   );
